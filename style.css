@@ -70,7 +70,7 @@ html{
 }
 
 .background {
-  background: rgba(0, 0, 0, 0.7) url("image.jpg");
+  background: rgb(64 42 42 / 70%) url("image.jpg");
   background-size: cover;
   background-blend-mode: darken;
 }
